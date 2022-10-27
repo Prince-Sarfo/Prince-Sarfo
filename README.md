@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Prince-Sarfo
-- 👀 I’m interested in Frontend development and UI
-- 🌱 I’m currently learning html CSS and JavaScript 
+- 👀 I’m interested in Frontend development and UI 
 - 💞️ I’m looking forward to collaborating on web development
-- 📫 How to reach me Prince_TheKarma on Twitter 
+- 📫 How to reach me @Prince_TheKarma on Twitter 
 
 <!---
 Prince-Sarfo/Prince-Sarfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
