@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prince-Sarfo
-- 👀 I’m interested in Frontend development and UI 
+- 👀 I’m passionate about FullStack development and UI 
 - 💞️ I’m looking forward to collaborating on web development
 - 📫 How to reach me @Prince_TheKarma on Twitter 
 
