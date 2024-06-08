@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince-Sarfo
-- 👀 I’m passionate about FullStack development and UI 
-- 💞️ I’m looking forward to collaborating on web development
-- 📫 How to reach me @Prince_TheKarma on Twitter 
+- 👀 I’m passionate about FullStack development, Mobile Development and UI Designs
+- 📫 How to reach me @Prince_TheMaximuus on Twitter
+  
 
 <!---
 Prince-Sarfo/Prince-Sarfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
