@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prince-Sarfo
-- 👀 I’m passionate about FullStack development, Mobile Development and UI Designs
+- 👀 A FullStack Developer, A Mobile Developer and A UI Designer sometimes
 - 📫 How to reach me on X: @Prince__Maximus 
 - Email: snellmaxi6@gmail.com
 
